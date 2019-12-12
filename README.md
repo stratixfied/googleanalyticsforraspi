@@ -1,4 +1,4 @@
-# googleanalyticsforraspi
+# google analytics for Raspberry Pi
 autostart script to launch google analytics for raspberry pi as a display
 
 If you're like me, trying to turn a dumb TV into a real time Google Analytics dashboard for yourself or your small business, this is what you can do. 
