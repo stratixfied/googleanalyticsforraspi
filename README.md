@@ -8,5 +8,6 @@ If you're like me, trying to turn a dumb TV into a real time Google Analytics da
 3) Create a new autostart.sh file into the path /home/pi/autostart.sh
 4) Have the autostart.sh in this repo copied and pasted. REMEMBER to put in the URL of your real time analytics view!
 5) Edit /etc/xdg/lxsession/LXDE-pi/autostart and to run this script by inserting @/home/pi/autostart.sh
-6) Optional: remember to start a cron to restart the Pi every 12 hours to ensure stability by inserting 0 */12 * * * reboot
-7) Enjoy!
+6) Install this keyboard tool xdotool by running "apt-get update" and "apt-get install -y xdotool"
+7) Optional: remember to start a cron to restart the Pi every 12 hours to ensure stability by inserting 0 */12 * * * reboot
+8) Enjoy!
