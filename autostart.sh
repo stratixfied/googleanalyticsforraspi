@@ -16,3 +16,4 @@ sleep 30
 
 xdotool search --onlyvisible "chromium" key m
 #to hide left menu automatically
+#then put this file in /home/pi/autostart.sh
